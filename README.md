@@ -1,0 +1,6 @@
+# NFT数字藏品发布交易网站已上链全开源/二级市场/合成元宇宙h5/app/数字藏品源码
+
+联系客服qq看演示：9823569<br>NFT数字藏品源码PHP+uniapp前端，支持h5，app<br>开源无加密，可二开，已对接上链。<br>example.com、名称、编号、价格、简介等信息，点击进入对应商品详情页；详情页显示：商品多图（或视频）、文字介绍、 发行数量、剩余发售数量、价格等信息；下方显示其他热门商品推荐<br>NFT数字艺术数字藏品WAP，小程序，APP，H5四版本<br>类似ma蚁链及某核功能<br>抢购模式：后台发布商品及链地址，前端可以抢购单品<br>盲盒模式：后台发布主要商品，可以添加多个同类的子商品,下单购买，随机获得<br>二手商城：购买完NFT作品，可以转售发布到二手商城<br>空投：邀请好友可以随机获得空投或者优惠券，空投商品，后台自己设置<br>1、艺术品发售：藏品发售购买交易<br>2、二级市场：用户的藏品可以直接挂售到二级市场商城<br>3、盲盒：购买盲盒随机抽取藏品<br>4、合成：购买碎片后可以合成对应的艺术品，后台灵活设置<br>5、合作商入驻：艺术家可以申请入驻后上传自己的作品出售<br>6、营销推广：邀请好友赠送艺术品<br>7、可以选择上链，目前支持文昌链，去文昌链官方注册账号认证然后在后台配置修改<br>8、会员可以选择藏品与盲盒赠送<br>9、充值通道支持TRX20-USDT与BSC-USDT<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/5Tdtn" style="color: red;">https://mega-file.org/5Tdtn</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
